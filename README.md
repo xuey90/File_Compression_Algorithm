@@ -1,2 +1,1 @@
-# The-C-Programming-Language-by-K-R
-My answers for the classic K&amp;R Book
+#File compression algo done at the summer of 2014
